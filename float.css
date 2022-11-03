@@ -1,0 +1,72 @@
+
+
+div{
+    
+    border-radius: 25px;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.c1{
+    background-color: rgb(41, 175, 216) ;
+    margin-left: 18%;
+    height: 300px;
+    width: 400px;
+}
+
+.c2{
+    text-align: center;
+    background-color: rgb(144, 73, 211);
+    height: 300px;
+    width: 400px;
+    
+    
+}
+
+.c3{
+    background-color: rgb(236, 72, 72);
+    height: 300px;
+    width: 400px;
+}
+.c4{
+    text-align: center;
+    clear: both;
+    margin-left: 45%;
+    height: 200px;
+}
+
+.c5{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding-left: 35%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    height: 100px;
+}
+
+.h1{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 41%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    height: 100px;
+    width: 380px;
+    
+    
+}
+
+.h2{
+    width: 100%;
+    border: 1px solid rgb(44, 5, 88);
+    
+}
+
+.h3{
+    width: 100%;
+    border: 1px solid rgb(44, 5, 88);
+    
+}
+
+    
