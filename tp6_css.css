@@ -1,0 +1,25 @@
+body{
+background-color: rgb(53, 42, 42);
+}
+
+ul li{
+    width: 200px;
+    height: 50px;
+    border:  2px solid #666;
+    background-color: blue;
+    list-style: none;
+    color: black;
+    font-size: 18px;
+    padding-left: 10px;
+    line-height: 50px;
+}
+
+ul li:hover{
+    cursor: pointer;
+    width: 250px;
+    background-color: #666;
+    font-weight: bold;
+    border: 2px solid blue;
+    padding-left: 40px;
+    transition: all 0.5s;
+}
